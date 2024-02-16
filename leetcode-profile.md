@@ -8,6 +8,6 @@ My name is **Basavaraj**
 # Running Sum of 1d Array  
 
 
-[Solution]()
+[Solution](https://github.com/BasavarajBankolli/Leetcode/blob/main/A.md)
 
 
