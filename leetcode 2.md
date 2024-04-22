@@ -1,6 +1,6 @@
 # <img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="LeetCode Logo" width="50" height="80"> Leetcode->2
 
-Click on the link to view the [Question]([https://leetcode.com/problems/running-sum-of-1d-array/description/](https://leetcode.com/problems/two-sum/description/))
+Click on the link to view the [Question](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 
 
 ### Python
