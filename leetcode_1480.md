@@ -5,19 +5,24 @@ Click on the link to view the [Question](https://leetcode.com/problems/running-s
 
 ### Python
 ```python
-def runningSum( nums):
-
-        l=[0]
-        for i in range (len(nums)):
-            n=l[len(l)-1]+nums[i]
-            l.append(n)
-        l.pop(0)
-        return l
-
-runningSum([1,2,3,4])
+class Solution(object):
+    def runningSum(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        for i in range(1, len(nums)):
+            nums[i] += nums[i - 1]
+        return nums
 ```
-### Output
+### output
 ```
-[1,3,6,10]
-```
+[3,1,2,10,1]
+Output: [3,4,6,16,17] --> for 1st element  = 3
+                          for 2nd element  = 3 + 1 =4
+                          for 3rd element  = 4 + 2 = 6
+                          for 4th element  = 6 + 10 = 16
+                          for 5th element  = 16 + 1 = 17
 
+
+```
