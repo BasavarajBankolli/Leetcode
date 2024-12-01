@@ -6,13 +6,13 @@ public:
             s += to_string(v);
         }
         
-        vector<string> permutationsList;
+        while (k-- > 1) {
+        next_permutation(s.begin(), s.end());
+        }
+
+        return s;
+
         
-        do {
-            permutationsList.push_back(s);
-        } while (next_permutation(s.begin(), s.end()));
-        
-        return permutationsList[k - 1];
     
     }
 };
