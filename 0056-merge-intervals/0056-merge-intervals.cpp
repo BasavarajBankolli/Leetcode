@@ -1,22 +1,28 @@
 class Solution {
 public:
-    static bool cmp(const vector<int>& a, const vector<int>& b){
-        if(a[0] == b[0]) return a[1] < b[1];
-        return a[0] < b[0];
-    }
-
     vector<vector<int>> merge(vector<vector<int>>& arr) {
-        
-        sort(arr.begin(), arr.end(), cmp);
+        sort(arr.begin(), arr.end());
 
         vector<vector<int>> res;
-        for (const auto& vals : arr) {
-            if (res.empty() || res.back()[1] < vals[0]) {
-                res.push_back(vals);
-            } else {
-                res.back()[1] = max(res.back()[1], vals[1]);
+        int cur = arr[0][0];
+        int cur1 = arr[0][1];
+
+        int i = 1;
+        while (i < arr.size()) {
+            
+            if (arr[i][0] <= cur1) {
+                cur1 = max(cur1, arr[i][1]);
+            } 
+            
+            else {
+                res.push_back(vector<int>{cur, cur1});
+                cur = arr[i][0];
+                cur1 = arr[i][1];
             }
+            i++;
         }
+
+        res.push_back(vector<int>{cur, cur1});
 
         return res;
     }
