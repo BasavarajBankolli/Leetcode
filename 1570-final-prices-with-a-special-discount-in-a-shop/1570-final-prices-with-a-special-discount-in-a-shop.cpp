@@ -5,11 +5,11 @@ public:
         vector<int> res;
 
         for (int i = 0; i < n; i++) {
-            bool dscnt = false;
+            int dscnt = 0;
             for (int j = i + 1; j < n; j++) {
                 if (prices[i] >= prices[j]) {
                     res.push_back(prices[i] - prices[j]);
-                    dscnt = true;
+                    dscnt = 1;
                     break;
                 }
             }
