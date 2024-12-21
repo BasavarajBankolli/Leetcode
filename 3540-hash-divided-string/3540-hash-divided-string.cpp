@@ -1,7 +1,7 @@
 class Solution {
 public:
     string stringHash(const string& s, int k) {
-        string res = "";
+        string res{};
         int n = s.size();
 
         for (int i = 0; i < n; i += k) {
