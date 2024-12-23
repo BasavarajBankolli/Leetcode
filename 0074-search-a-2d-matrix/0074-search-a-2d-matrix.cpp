@@ -11,7 +11,7 @@ public:
                     int mid = l + (r - l) / 2;
 
                     if (row[mid] == target) {
-                        return true; 
+                        return 1; 
                     } 
                     
                     else if (row[mid] < target) {
@@ -25,6 +25,6 @@ public:
             }
         }
 
-        return false; 
+        return 0; 
     }
 };
