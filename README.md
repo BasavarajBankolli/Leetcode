@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BasavarajBankolli/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/BasavarajBankolli/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/BasavarajBankolli/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/BasavarajBankolli/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/BasavarajBankolli/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/BasavarajBankolli/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/BasavarajBankolli/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3540-hash-divided-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3540-hash-divided-string) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/BasavarajBankolli/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Linked List
 |  |
 | ------- |
