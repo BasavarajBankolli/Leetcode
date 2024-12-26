@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0060-permutation-sequence) |
 ## String
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
