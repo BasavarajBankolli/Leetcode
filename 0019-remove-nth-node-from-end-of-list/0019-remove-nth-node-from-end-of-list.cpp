@@ -15,33 +15,21 @@ public:
 
         if (!head->next && n == 1) return nullptr;
 
-        ListNode* dummy = new ListNode(-1); // Add a dummy node to simplify edge cases
-        dummy->next = head;
-        ListNode* cur = dummy;
-        ListNode* prev = dummy;
+        ListNode* prev = head;
+        ListNode* cur = head;
 
-        for (int i = 0; i <= n; i++) {
-            if (cur) {
-                cur = cur->next;
-            } else {
-                // If n is greater than the length of the list, return the unmodified list
-                return head;
-            }
+        for (int i = 0; i < n; i++) cur = cur -> next;
+        if (!cur) return head -> next;
+
+        while (cur -> next) {
+            cur = cur -> next;
+            prev = prev -> next;
         }
-
-        while (cur) {
-            prev = prev->next;
-            cur = cur->next;
-        }
-
-        ListNode* del = prev->next;
-        prev->next = del->next;
+        ListNode* del = prev -> next;
+        prev -> next = prev -> next -> next;
 
         delete del;
-        ListNode* newHead = dummy->next;
-        delete dummy;
-
-        return newHead;
+        return head;
     }
 
 };
