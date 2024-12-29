@@ -40,7 +40,7 @@ public:
             }
             temp = temp -> next;
         }
-
+        delete temp;
         return head;
     }
 };
