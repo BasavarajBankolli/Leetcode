@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
