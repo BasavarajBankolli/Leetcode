@@ -11,34 +11,31 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        unordered_set <int> s(nums.begin(), nums.end());
-        if (!head -> next && s.find(head->val) != s.end()) return NULL;
+        bool ref[100001] = {false};
 
-        ListNode* dummy = head;
-        ListNode* temp = NULL;
-
-        while (dummy && s.find(dummy -> val) != s.end()) {
-            dummy = dummy -> next;
+        for (const auto& v: nums) {
+            ref[v] = true;
         }
 
-        temp = dummy;
+        ListNode dummy(0, head);
+        ListNode *slow = &dummy;
+        ListNode *fast = head;
+
         ListNode* del = NULL;
-        while (temp -> next) {
-            if (s.find(temp -> next -> val) != s.end() && temp -> next -> next) {
-                del = temp -> next;
-                temp -> next = temp -> next -> next;
-                delete del;
+
+        while (fast) {
+            if (ref[fast -> val]){
+                del = fast;
+                slow -> next = fast -> next;
+                fast = slow -> next;
+            } 
+            else {
+                slow = fast;
+                fast = fast -> next;
             }
-            else if (s.find(temp -> next -> val) != s.end()) {
-                del = temp -> next;
-                temp -> next = NULL;
-                delete del; 
-            }
-            else
-                temp = temp -> next;
         }
 
-        return dummy;
+        return dummy.next;
 
     }
 };
