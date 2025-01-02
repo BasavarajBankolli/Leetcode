@@ -2,7 +2,7 @@ class Solution:
     def vowelStrings(self, w: List[str], q: List[List[int]]) -> List[int]:
         n = len(w)
         pre = [0] * (n + 1)          # [0, 1, 1, 2, 3, 4]
-        s = { 'a', 'e', 'i', 'o','u'}
+        s = "aeiou"
 
         v = 0
 
