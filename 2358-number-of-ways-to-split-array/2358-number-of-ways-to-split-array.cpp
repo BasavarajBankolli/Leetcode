@@ -2,21 +2,16 @@ class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
         const int n = nums.size();
+        const long long tot = accumulate(nums.begin(), nums.end(), 0LL);
+        long long leftsum = nums[0];
+        int res = (leftsum >= tot - leftsum)? 1: 0;
 
-        vector <long long> prefix(n);
-        prefix[0] = nums[0];
-
-        for (int i = 1; i < n; i++){
-            prefix[i] = prefix[i-1] + nums[i]; 
+        for (int i = 1; i < n - 1; i++) {
+            leftsum += nums[i];
+            if (leftsum >= (tot - leftsum)){
+                res++;
+            }
         }
-
-        int res = 0;
-
-        for (int i = 0; i < n - 1; i++) {
-            if (prefix[i] >= prefix[n-1] - prefix[i]) res++;
-        }
-
         return res;
-
     }
 };
