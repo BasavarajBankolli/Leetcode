@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/BasavarajBankolli/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/BasavarajBankolli/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/BasavarajBankolli/Leetcode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/BasavarajBankolli/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/BasavarajBankolli/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/BasavarajBankolli/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Linked List
 |  |
 | ------- |
