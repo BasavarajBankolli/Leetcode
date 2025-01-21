@@ -11,8 +11,8 @@ public:
             }
         }
 
-        int rows[100000] = {0};
-        int cols[100000] = {0};
+        vector <int> rows(n);
+        vector <int> cols(m);
 
         int i = 0;
         for (const int& a: arr){
