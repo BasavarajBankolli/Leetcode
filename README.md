@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1044-find-common-characters) |
 | [1063-best-sightseeing-pair](https://github.com/BasavarajBankolli/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BasavarajBankolli/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/BasavarajBankolli/Leetcode/tree/master/0322-coin-change) |
+| [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/BasavarajBankolli/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BasavarajBankolli/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/BasavarajBankolli/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -249,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
