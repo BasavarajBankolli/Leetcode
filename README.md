@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/BasavarajBankolli/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/BasavarajBankolli/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
