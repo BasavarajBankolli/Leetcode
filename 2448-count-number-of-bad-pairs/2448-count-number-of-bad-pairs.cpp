@@ -1,22 +1,17 @@
 class Solution {
 public:
     long long countBadPairs(vector<int>& nums) {
-        const long long n = nums.size();
-        unordered_map<int, int> mp;
-
-        for (int i = 0; i < n; i++) {
-            mp[nums[i] - i]++;
+        long long n = nums.size();
+        unordered_map<unsigned long long, long long> m;
+        for(long long i = 0; i < n; i++) {
+            m[nums[i] - i]++;
         }
-
-        long long tot = (long long)n * (n - 1) / 2;
-        long long good = 0L;
+        long long good = 0, total = (n - 1) * n / 2;
         
-        for (const auto& p : mp) {
-            int cnt = p.second;
-            good += (long long)cnt * (cnt - 1) / 2;  
+        for(auto it: m) {
+            if(it.second) good += it.second * (it.second - 1) / 2;
         }
-
-        return tot - good;
+        return total - good;
     }
 
 };
