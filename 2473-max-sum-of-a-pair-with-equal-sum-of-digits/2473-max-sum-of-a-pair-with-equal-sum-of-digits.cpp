@@ -1,31 +1,33 @@
 class Solution {
 public:
     int maximumSum(vector<int>& nums) {
-        unordered_map <int, vector <int>> mp;
+        unordered_map<int, pair<int, int>> mp;  // Stores two max values for each digit sum group
+        int maxSum = -1;
 
-        int sum, tmp;
-        for (int a: nums) {
-            tmp = a;
-            sum = 0;
-
-            while (a) {
-                sum += a % 10;
-                a /= 10;
+        for (int a : nums) {
+            int sum = 0, tmp = a;
+            
+            // Compute digit sum
+            while (tmp) {
+                sum += tmp % 10;
+                tmp /= 10;
             }
 
-            mp[sum].push_back(tmp);
-        }
+            // Maintain the top two largest values for each digit sum
+            auto& [max1, max2] = mp[sum];
 
-        int mx = -1;
-        for (auto v: mp) {
-            vector <int> ref = v.second;
+            if (a > max1) {
+                max2 = max1; // Shift max1 to max2
+                max1 = a;    // Update max1 with the new largest value
+            } else if (a > max2) {
+                max2 = a;    // Update max2 if it's the second largest
+            }
 
-            if (ref.size() > 1) {
-                sort(ref.rbegin(), ref.rend());
-                mx = max(mx, ref[0]+ref[1]);
+            if (max2 > 0) {
+                maxSum = max(maxSum, max1 + max2);
             }
         }
-        
-        return mx;
+
+        return maxSum;
     }
 };
