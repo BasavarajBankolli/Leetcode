@@ -7,19 +7,18 @@ public:
     }
     
     void add(int num) {
-        stream.push_back(num);
-
-        
+        if(num == 0) {
+            stream={1};
+        }
+        else{
+            stream.push_back(num*stream.back());
+        } 
     }
     
     int getProduct(int k) {
-        int pro = 1, n = stream.size();
-        
-        for (int i = n-1; i >= n-k; i--){
-            pro *= stream[i];
-        }
-
-        return pro;
+        int n = stream.size();
+        if(k>=n) return 0;
+        return stream[n-1]/stream[n-k-1];
     }
 };
 
