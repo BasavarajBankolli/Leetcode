@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/BasavarajBankolli/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/BasavarajBankolli/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2107-find-unique-binary-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BasavarajBankolli/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/BasavarajBankolli/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/BasavarajBankolli/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2107-find-unique-binary-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BasavarajBankolli/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/BasavarajBankolli/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2428-equal-row-and-column-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BasavarajBankolli/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/BasavarajBankolli/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BasavarajBankolli/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/BasavarajBankolli/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/BasavarajBankolli/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/BasavarajBankolli/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
