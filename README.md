@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/BasavarajBankolli/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/BasavarajBankolli/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BasavarajBankolli/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/BasavarajBankolli/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/BasavarajBankolli/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BasavarajBankolli/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/BasavarajBankolli/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
