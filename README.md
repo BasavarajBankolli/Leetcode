@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/BasavarajBankolli/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/BasavarajBankolli/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/BasavarajBankolli/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/BasavarajBankolli/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/BasavarajBankolli/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/BasavarajBankolli/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/BasavarajBankolli/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/BasavarajBankolli/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/BasavarajBankolli/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
