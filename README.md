@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/BasavarajBankolli/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/BasavarajBankolli/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/BasavarajBankolli/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/BasavarajBankolli/Leetcode/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/BasavarajBankolli/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0807-custom-sort-string) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BasavarajBankolli/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/BasavarajBankolli/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
