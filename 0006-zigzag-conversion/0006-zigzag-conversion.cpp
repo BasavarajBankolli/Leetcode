@@ -4,8 +4,9 @@ public:
         if (numRows < 2) {
             return s;
         }
-        
-        map <int, string> mp;
+
+        vector<string>mp(numRows, "");
+
         int i = 0, r = 0;
         while(i < s.size()){
             while (i < s.size() && r < numRows){
@@ -19,7 +20,7 @@ public:
         }
 
         string res = "";   
-        for (auto &[k, st]: mp){
+        for (string st: mp){
             res += st;
         }
 
