@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/BasavarajBankolli/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/BasavarajBankolli/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/BasavarajBankolli/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BasavarajBankolli/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/BasavarajBankolli/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/BasavarajBankolli/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/BasavarajBankolli/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/BasavarajBankolli/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BasavarajBankolli/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/BasavarajBankolli/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/BasavarajBankolli/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BasavarajBankolli/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/BasavarajBankolli/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/BasavarajBankolli/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
