@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/BasavarajBankolli/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/BasavarajBankolli/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/BasavarajBankolli/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
