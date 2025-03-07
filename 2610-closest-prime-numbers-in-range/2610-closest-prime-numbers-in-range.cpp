@@ -16,6 +16,7 @@ public:
                 mn = ref[1] - ref[0];
                 res = ref;
             }
+            if (mn == 1) break;
         
         }
 
