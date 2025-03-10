@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BasavarajBankolli/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/BasavarajBankolli/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/BasavarajBankolli/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/BasavarajBankolli/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BasavarajBankolli/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BasavarajBankolli/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/BasavarajBankolli/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/BasavarajBankolli/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/BasavarajBankolli/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3483-alternating-groups-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3483-alternating-groups-ii) |
