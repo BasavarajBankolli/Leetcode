@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/BasavarajBankolli/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3643-zero-array-transformation-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/BasavarajBankolli/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/BasavarajBankolli/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/BasavarajBankolli/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BasavarajBankolli/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Sliding Window
