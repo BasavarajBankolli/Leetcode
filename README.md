@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1044-find-common-characters) |
 | [1063-best-sightseeing-pair](https://github.com/BasavarajBankolli/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1139-previous-permutation-with-one-swap](https://github.com/BasavarajBankolli/Leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BasavarajBankolli/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/BasavarajBankolli/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/BasavarajBankolli/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1139-previous-permutation-with-one-swap](https://github.com/BasavarajBankolli/Leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1502-construct-k-palindrome-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/BasavarajBankolli/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/BasavarajBankolli/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
