@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/BasavarajBankolli/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/BasavarajBankolli/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/BasavarajBankolli/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
