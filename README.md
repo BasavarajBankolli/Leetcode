@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BasavarajBankolli/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/BasavarajBankolli/Leetcode/tree/master/0169-majority-element) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/BasavarajBankolli/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/BasavarajBankolli/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/BasavarajBankolli/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/BasavarajBankolli/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/BasavarajBankolli/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0392-is-subsequence) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/BasavarajBankolli/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/BasavarajBankolli/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/BasavarajBankolli/Leetcode/tree/master/0290-word-pattern) |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/BasavarajBankolli/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -539,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/BasavarajBankolli/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/BasavarajBankolli/Leetcode/tree/master/0191-number-of-1-bits) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
