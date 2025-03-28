@@ -1,30 +1,40 @@
 class Solution {
 public:
-    int minimumIndex(vector<int>& nums) {
-        int n = nums.size();
-        unordered_map<int, int> mp;
-        int dominant = -1, maxFreq = 0;
-
-        for (int num : nums) {
-            mp[num]++;
-            if (mp[num] > maxFreq) {
-                maxFreq = mp[num];
-                dominant = num;
+    int find_max(vector<int> &a) {
+        int mx = a[0], cnt = 1;
+        for (int i = 1; i < a.size(); i++) {
+            if (a[i] == mx) {
+                cnt++;
+            } else {
+                cnt--;
+                if (cnt == 0) {
+                    mx = a[i];
+                    cnt = 1;
+                }
             }
         }
+        return mx;
+    }
 
-        if (maxFreq * 2 <= n) return -1;  
-        
-        int lcnt = 0, rcnt = maxFreq;
+    int minimumIndex(vector<int>& nums) {
+        int n = nums.size();
+
+        int mx = find_max(nums), mxfreq = 0;
+        for (int a : nums) {
+            if (a == mx) mxfreq++;
+        }
+
+        if (mxfreq * 2 <= n) return -1;  
+
+        int lcnt = 0, rcnt = mxfreq;
         for (int i = 0; i < n - 1; i++) {
-            if (nums[i] == dominant) {
+            if (nums[i] == mx) {
                 lcnt++;
                 rcnt--;
             }
-
-            if (lcnt * 2 > (i + 1) && rcnt * 2 > (n - i - 1)) {
+             
+            if (lcnt * 2 > (i + 1) && rcnt * 2 > (n - i - 1))
                 return i;
-            }
         }
 
         return -1;
