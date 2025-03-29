@@ -29,8 +29,9 @@ public:
 
         }
 
-            while(j < b.size()) res[k++] = b[j++];
-            while(i < a.size()) res[k++] = a[i++];
+        while(j < b.size()) res[k++] = b[j++];
+        while(i < a.size()) res[k++] = a[i++];
+        
         return res;
 
     } 
