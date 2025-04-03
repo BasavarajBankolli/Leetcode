@@ -10,8 +10,6 @@ class Solution:
 
             suf[-i-1] = max(suf[-i], nums[-i-1])
         
-        print(suf,pre)
-
         res = 0
         for i in range(1, len(nums)-1):
             res = max(res, (pre[i - 1] - nums[i]) * suf[i + 1])
