@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1044-find-common-characters) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/BasavarajBankolli/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0322-coin-change](https://github.com/BasavarajBankolli/Leetcode/tree/master/0322-coin-change) |
 | [0820-find-eventual-safe-states](https://github.com/BasavarajBankolli/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BasavarajBankolli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0820-find-eventual-safe-states](https://github.com/BasavarajBankolli/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/BasavarajBankolli/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BasavarajBankolli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BasavarajBankolli/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/BasavarajBankolli/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BasavarajBankolli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BasavarajBankolli/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
