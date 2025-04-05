@@ -1,12 +1,12 @@
 class Solution {
 public:
     int subsetXORSum(vector<int>& nums) {
-        int res = 0; 
-        int n = nums.size();
- 
-        for (auto& a : nums ) {
-            res |= a;
+        int sum = 0;
+        
+        for (int a: nums) {
+            sum |= a;
         }
-        return res * (1 << (n - 1));
+
+        return sum << (nums.size() - 1);
     }
 };
