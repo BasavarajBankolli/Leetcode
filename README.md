@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/BasavarajBankolli/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3540-hash-divided-string) |
+| [3636-check-balanced-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3636-check-balanced-string) |
 ## String Matching
 |  |
 | ------- |
