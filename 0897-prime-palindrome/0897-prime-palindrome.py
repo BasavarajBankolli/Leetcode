@@ -1,6 +1,7 @@
 class Solution:
-    @staticmethod
-    def prime(n):
+    def primePalindrome(self, n: int) -> int:
+        
+        def prime(n):
             if n < 2:
                 return False
 
@@ -11,16 +12,16 @@ class Solution:
 
             return True
 
-    def primePalindrome(self, n: int) -> int:
+
 
         while True:
 
             s = str(n)
 
-            if s == s[::-1] and Solution.prime(n):
+            if s == s[::-1] and prime(n):
                 return n
 
             n += 1
 
             if 10**7 < n < 10**8:
-                n = 10 ** 8
+                n = 10**8
