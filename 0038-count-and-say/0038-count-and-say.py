@@ -1,18 +1,35 @@
 class Solution:
     def countAndSay(self, n: int) -> str:
-        if n < 3:
-            return "1"*n
+        # 21 1211 111221 312211 13112221 ->  this is pattern
+        if n < 3: return '1' * n
 
-        s = "1"
-        for _ in range(n - 1):
-            i = 0
-            next_s = ""
-            while i < len(s):
-                count = 1
-                while i + 1 < len(s) and s[i] == s[i + 1]:
-                    i += 1
-                    count += 1
-                next_s += str(count) + s[i]
-                i += 1
-            s = next_s
-        return s
+        ls = [1, 1]
+        for i in range(2,n):
+            tmp = []
+            cnt = 1
+            right = 0
+            ok = 0
+            while right < len(ls) - 1:
+                if ls[right] == ls[right + 1]:
+                    ok = 0
+                    cnt += 1
+                else:
+                    tmp.append(cnt)
+                    tmp.append(ls[right])
+                    cnt = 1
+                    ok = 1
+
+                right += 1
+
+            if not ok:
+                tmp.append(cnt)
+                tmp.append(ls[right])
+
+            if ls[-1] != ls[-2]:
+                tmp.append(1)
+                tmp.append(ls[-1])
+
+            ls = tmp
+
+        ls = [str(v) for v in ls]
+        return "".join(ls)  
