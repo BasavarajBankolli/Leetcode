@@ -1,33 +1,35 @@
 class Solution:
+    def pickWord(self, i, words, curScore, letters, score):
+        if i == len(words):
+            return curScore
+        
+        cntSt = []
+        complt = True
+        for c in words[i]:
+            idx = ord(c) - ord("a")
+            if letters[idx] > 0:
+                letters[idx]-=1
+                cntSt.append(idx)
+                curScore+=score[idx]
+            else:
+                complt = False
+                break
+
+        ans = 0
+        if complt:
+            ans = max(ans, self.pickWord(i+1, words, curScore, letters, score))
+            
+        for counted in cntSt:
+            letters[counted]+=1
+            curScore-=score[counted]
+        return max(ans, self.pickWord(i+1, words, curScore, letters, score))
+
+
+
+
     def maxScoreWords(self, words: List[str], letters: List[str], score: List[int]) -> int:
-        def subs(lst):
-            return list(chain.from_iterable(combinations(lst, r) for r in range(len(lst)+1)))   
-
-        n = len(letters)
-        ref = []
-        for a in subs(words):
-            total_length = sum(len(word) for word in a)
-            if 0 < total_length <= n:
-                ref.append(a)
-
-        ls = [0] * 26
-        for c in letters:
-            ls[ord(c) - ord('a')] += 1
-
-        mx = 0
-        for arr in ref:
-            freq = [0] * 26
-            ok = 1
-            for word in arr:
-                for c in word:
-                    freq[ord(c) - ord('a')] += 1
-                    if freq[ord(c) - ord('a')] > ls[ord(c) - ord('a')]:
-                        ok = 0
-                        break
-
-            cnt = 0
-            if ok:
-                cnt = sum(freq[i]*score[i] for i in range(26))
-                mx = max(mx, cnt)
-
-        return mx
+        letter = [0 for _ in range(26)]
+        for l in letters:
+            letter[ord(l)-ord("a")]+=1
+        
+        return self.pickWord(0, words, 0, letter, score)
