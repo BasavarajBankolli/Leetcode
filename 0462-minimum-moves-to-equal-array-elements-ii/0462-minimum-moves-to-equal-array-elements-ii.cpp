@@ -2,15 +2,14 @@ class Solution {
 public:
     int minMoves2(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        int n = nums.size();
-        int m = nums[n / 2];  
+        int res = 0;
 
-        long long cnt = 0;
-        for (int num : nums) {
-            cnt += abs(num - m);
+        int i = 0, j = nums.size()-1;
+
+        while (i <= j) {
+            res += (nums[j--] - nums[i++]);
         }
-
-        return cnt;
+        return res;
     }
 
 };
