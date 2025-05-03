@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1044-find-common-characters) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/BasavarajBankolli/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/BasavarajBankolli/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1121-partition-array-for-maximum-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/BasavarajBankolli/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0768-partition-labels](https://github.com/BasavarajBankolli/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/BasavarajBankolli/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/BasavarajBankolli/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1139-previous-permutation-with-one-swap](https://github.com/BasavarajBankolli/Leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1448-maximum-69-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
