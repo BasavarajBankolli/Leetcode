@@ -1,37 +1,40 @@
 class Solution:
-    def pushDominoes(self, dominoes: str) -> str:
-        lst = list(dominoes)
-        n = len(lst)
-        dp = [0] * n
+    def pushDominoes(self, d: str) -> str:
+        lst = list(d)
+        lst_l = -1
+        lst_r = -1
 
-        force = 0
-        for i in range(n):
-            if lst[i] == 'R':
-                force = n  
-            elif lst[i] == 'L':
-                force = 0
-            else:
-                if force > 0:
-                    force -= 1
-            dp[i] += force
+        def bothside(l, r):
+            while l < r:
+                lst[l] = "R"
+                lst[r] = "L"
+                l += 1
+                r -= 1
 
-        force = 0
-        for i in range(n - 1, -1, -1):
+        def leftL(l, r):
+            while r > l:
+                lst[r] = "L"
+                r -= 1
+
+        def rightR(l, r):
+            while l < r:
+                lst[l] = "R"
+                l += 1
+
+        for i in range(len(lst)):
             if lst[i] == 'L':
-                force = n  
-            elif lst[i] == 'R':
-                force = 0
-            else:
-                if force > 0:
-                    force -= 1
-            dp[i] -= force
+                if lst_r > lst_l:
+                    bothside(lst_r + 1, i - 1)
+                else:
+                    leftL(lst_l, i - 1)
+                lst_l = i
 
-        for i in range(n):
-            if dp[i] > 0:
-                lst[i] = 'R'
-            elif dp[i] < 0:
-                lst[i] = 'L'
-            else:
-                lst[i] = '.'
+            elif lst[i] == 'R':
+                if lst_r > lst_l:
+                    rightR(lst_r + 1, i)
+                lst_r = i
+
+        if lst_r > lst_l:
+            rightR(lst_r + 1, len(lst))
 
         return ''.join(lst)
