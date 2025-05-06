@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/BasavarajBankolli/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BasavarajBankolli/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/BasavarajBankolli/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1775-design-an-ordered-stream](https://github.com/BasavarajBankolli/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/BasavarajBankolli/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/BasavarajBankolli/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BasavarajBankolli/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1761-count-sorted-vowel-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/BasavarajBankolli/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Breadth-First Search
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BasavarajBankolli/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BasavarajBankolli/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/BasavarajBankolli/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/BasavarajBankolli/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/BasavarajBankolli/Leetcode/tree/master/2478-longest-nice-subarray) |
