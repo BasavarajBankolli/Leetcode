@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0807-custom-sort-string) |
 | [0868-push-dominoes](https://github.com/BasavarajBankolli/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0952-word-subsets) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1044-find-common-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1044-find-common-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/BasavarajBankolli/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BasavarajBankolli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0820-find-eventual-safe-states](https://github.com/BasavarajBankolli/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0039-combination-sum) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/BasavarajBankolli/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BasavarajBankolli/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/BasavarajBankolli/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/BasavarajBankolli/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BasavarajBankolli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/BasavarajBankolli/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/BasavarajBankolli/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BasavarajBankolli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1254-deepest-leaves-sum) |
