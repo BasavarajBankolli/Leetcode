@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BasavarajBankolli/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/BasavarajBankolli/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/BasavarajBankolli/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/BasavarajBankolli/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/BasavarajBankolli/Leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BasavarajBankolli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BasavarajBankolli/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
