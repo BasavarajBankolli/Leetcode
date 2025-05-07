@@ -11,7 +11,8 @@
  */
 class Solution {
 public:
-    set<string> res;
+    string smll;
+
     void dfs(TreeNode* node, string &s){
         if (!node) return;
 
@@ -19,12 +20,13 @@ public:
         if (!node -> left && !node -> right) {
             string tmp = s;
             reverse(tmp.begin(), tmp.end());
-            res.insert(tmp);
+            
+            if (smll.empty() || tmp < smll) smll = tmp;
         }
-        else{
-            if(node -> left) dfs(node -> left, s);
-            if (node -> right) dfs(node -> right, s);
-        }
+        
+        dfs(node -> left, s);
+        dfs(node -> right, s);
+        
         s.pop_back();
     }
 
@@ -32,6 +34,6 @@ public:
         string s = "";
         dfs(root, s);
 
-        return *res.begin();
+        return smll;
     }
 };
