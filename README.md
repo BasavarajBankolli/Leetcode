@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/BasavarajBankolli/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/BasavarajBankolli/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/BasavarajBankolli/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BasavarajBankolli/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/2050-count-good-numbers) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/BasavarajBankolli/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BasavarajBankolli/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/BasavarajBankolli/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/BasavarajBankolli/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/BasavarajBankolli/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
