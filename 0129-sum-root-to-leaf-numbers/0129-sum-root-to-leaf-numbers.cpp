@@ -12,7 +12,7 @@
 class Solution {
 public:
     int sum = 0;
-    void dfs(TreeNode* node, int &num){
+    void dfs(TreeNode* node, int num){
         if(!node) return;
 
         num = num*10 + node->val;
@@ -26,8 +26,7 @@ public:
         num /= 10;
     }
     int sumNumbers(TreeNode* root) {
-        int num = 0;
-        dfs(root, num);
+        dfs(root, 0);
         return sum;
     }
 };
