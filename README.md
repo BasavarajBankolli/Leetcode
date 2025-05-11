@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1139-previous-permutation-with-one-swap](https://github.com/BasavarajBankolli/Leetcode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/BasavarajBankolli/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BasavarajBankolli/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/BasavarajBankolli/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
