@@ -7,17 +7,11 @@ public:
         for (int v: digits) cnt[v]++;
 
         for (int i = 100; i < 1000; i += 2) {
-            map<int, int> mp;
             int num = i;
-            while (num > 0){
-                mp[num%10]++;
-                num /= 10;
-            }
-            bool ok = 1;
-            for (auto a: mp) {
-                if (cnt[a.first] < a.second) ok = 0; 
-            }
-            if(ok)res.push_back(i);            
+            int h = i/100, t = i/10 % 10, o = i % 10;
+            cnt[h]--, cnt[t]--, cnt[o]--;
+            if(cnt[h] >= 0 && cnt[t] >= 0 && cnt[o] >=0) res.push_back(i);
+            cnt[h]++, cnt[t]++, cnt[o]++;         
         }
 
         return res;
