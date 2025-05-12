@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BasavarajBankolli/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/BasavarajBankolli/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/BasavarajBankolli/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/BasavarajBankolli/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2107-find-unique-binary-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BasavarajBankolli/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2215-finding-3-digit-even-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/BasavarajBankolli/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2428-equal-row-and-column-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/BasavarajBankolli/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BasavarajBankolli/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/BasavarajBankolli/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BasavarajBankolli/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BasavarajBankolli/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/BasavarajBankolli/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Merge Sort
 |  |
