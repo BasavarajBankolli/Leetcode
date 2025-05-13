@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/BasavarajBankolli/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/BasavarajBankolli/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3750-closest-equal-element-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/3750-closest-equal-element-queries) |
 ## Two Pointers
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BasavarajBankolli/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1761-count-sorted-vowel-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/BasavarajBankolli/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/BasavarajBankolli/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3374-count-alternating-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/3374-count-alternating-subarrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/BasavarajBankolli/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3540-hash-divided-string) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3636-check-balanced-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3636-check-balanced-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## String Matching
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BasavarajBankolli/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
