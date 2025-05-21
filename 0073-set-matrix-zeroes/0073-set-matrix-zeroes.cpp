@@ -15,7 +15,7 @@ public:
         }
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                if(setRows.count(i) > 0 || setColumns.count(j) > 0){
+                if(setRows.find(i) != setRows.end() || setColumns.find(j) != setColumns.end()){
                     matrix[i][j] = 0;
                 }
             }
