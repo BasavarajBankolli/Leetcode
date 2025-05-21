@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BasavarajBankolli/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/BasavarajBankolli/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1046-max-consecutive-ones-iii](https://github.com/BasavarajBankolli/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BasavarajBankolli/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BasavarajBankolli/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/BasavarajBankolli/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0797-rabbits-in-forest](https://github.com/BasavarajBankolli/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0897-prime-palindrome](https://github.com/BasavarajBankolli/Leetcode/tree/master/0897-prime-palindrome) |
 | [1448-maximum-69-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/1448-maximum-69-number) |
