@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/BasavarajBankolli/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/BasavarajBankolli/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/BasavarajBankolli/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/BasavarajBankolli/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/BasavarajBankolli/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/BasavarajBankolli/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BasavarajBankolli/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/BasavarajBankolli/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BasavarajBankolli/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/BasavarajBankolli/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/BasavarajBankolli/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/BasavarajBankolli/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/BasavarajBankolli/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2300-construct-string-with-repeat-limit](https://github.com/BasavarajBankolli/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/BasavarajBankolli/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/BasavarajBankolli/Leetcode/tree/master/2509-minimize-xor) |
