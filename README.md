@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/BasavarajBankolli/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/BasavarajBankolli/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/BasavarajBankolli/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BasavarajBankolli/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
