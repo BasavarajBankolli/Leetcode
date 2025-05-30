@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/BasavarajBankolli/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/BasavarajBankolli/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/BasavarajBankolli/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/BasavarajBankolli/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/BasavarajBankolli/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BasavarajBankolli/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/BasavarajBankolli/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/BasavarajBankolli/Leetcode/tree/master/0322-coin-change) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/BasavarajBankolli/Leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BasavarajBankolli/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1072-next-greater-node-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/BasavarajBankolli/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
