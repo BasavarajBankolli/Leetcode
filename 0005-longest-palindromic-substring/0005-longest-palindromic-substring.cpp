@@ -1,32 +1,49 @@
 class Solution {
 public:
-    bool palindrome(string &s, int l, int r) {
-        while(l <= r){
-            if(s[l] != s[r])
-                return 0;
-            l++;
-            r--;
-        }
-
-        return 1;
-    }
-
     string longestPalindrome(string s) {\
         int n = s.length();
-        int l = 0, r = n-1;
         int mx = 0;
-        int resl = 0;
+        int startidx = 0;
+
+        /* 
+        auto check = [&](int l, int r){
+            while(l >= 0 && r < n && s[l] == s[r]){
+                if(r - l > mx){
+                    mx = r - l;
+                    startidx = l;
+                }
+                r++;
+                l--;
+            }
+        };
+
+        */
 
         for(int i = 0; i < n-1; i++) {
-            for(int j = n-1; j > i; j--) {
-                if(j-i > mx && palindrome(s, i,j)){
-                    mx = j - i;
-                    resl = i;
+            // check(i, i);
+            // check(i, i+1);
+            int l = i, r = i;
+            while(l >= 0 && r < n && s[l] == s[r]){
+                if(r - l > mx){
+                    mx = r - l;
+                    startidx = l;
                 }
+                r++;
+                l--;
+            }
+
+            l = i, r = i + 1;
+            while(l >= 0 && r < n && s[l] == s[r]){
+                if(r - l > mx){
+                    mx = r - l;
+                    startidx = l;
+                }
+                r++;
+                l--;
             }
         }
 
-        return s.substr(resl, mx + 1);
+        return s.substr(startidx, mx + 1);
 
     }
 };
