@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/BasavarajBankolli/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BasavarajBankolli/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1761-count-sorted-vowel-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/BasavarajBankolli/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0797-rabbits-in-forest](https://github.com/BasavarajBankolli/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0897-prime-palindrome](https://github.com/BasavarajBankolli/Leetcode/tree/master/0897-prime-palindrome) |
+| [1236-n-th-tribonacci-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/BasavarajBankolli/Leetcode/tree/master/1500-count-largest-group) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
+| [1236-n-th-tribonacci-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search Tree
 |  |
 | ------- |
