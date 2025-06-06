@@ -4,12 +4,10 @@ public:
         int n = s.size();
 
         vector<char> suf(n + 1);
-        suf[n] = s[n-1];
+        suf[n] = 'z'+1;
 
         for(int i = n-1; i >= 0; i--) {
             suf[i] = min(s[i], suf[i+1]);
-
-            cout << suf[i] << ' ';
         }
 
         stack<char>st;
@@ -21,10 +19,6 @@ public:
                 res += st.top();
                 st.pop();
             }
-        }
-        while(!st.empty()){
-            res += st.top();
-            st.pop();
         }
         return res;
     }
