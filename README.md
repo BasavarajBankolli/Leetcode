@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/BasavarajBankolli/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/BasavarajBankolli/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/BasavarajBankolli/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BasavarajBankolli/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/BasavarajBankolli/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BasavarajBankolli/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/0543-diameter-of-binary-tree) |
