@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/BasavarajBankolli/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/BasavarajBankolli/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3373-maximum-prime-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3374-count-alternating-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3427-special-array-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3429-special-array-i) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/BasavarajBankolli/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/BasavarajBankolli/Leetcode/tree/master/3321-type-of-triangle) |
+| [3373-maximum-prime-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3374-count-alternating-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/BasavarajBankolli/Leetcode/tree/master/0897-prime-palindrome) |
 | [2610-closest-prime-numbers-in-range](https://github.com/BasavarajBankolli/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3373-maximum-prime-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## Trie
 |  |
 | ------- |
