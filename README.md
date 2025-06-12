@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/BasavarajBankolli/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
