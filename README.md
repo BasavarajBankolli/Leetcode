@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1044-find-common-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1044-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/BasavarajBankolli/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0931-maximum-frequency-stack](https://github.com/BasavarajBankolli/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1072-next-greater-node-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/BasavarajBankolli/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BasavarajBankolli/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
