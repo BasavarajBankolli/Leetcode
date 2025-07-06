@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/BasavarajBankolli/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BasavarajBankolli/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/BasavarajBankolli/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/BasavarajBankolli/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/BasavarajBankolli/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1777-determine-if-two-strings-are-close](https://github.com/BasavarajBankolli/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/BasavarajBankolli/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1775-design-an-ordered-stream](https://github.com/BasavarajBankolli/Leetcode/tree/master/1775-design-an-ordered-stream) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
 | ------- |
