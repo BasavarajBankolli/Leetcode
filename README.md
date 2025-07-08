@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/BasavarajBankolli/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/BasavarajBankolli/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/BasavarajBankolli/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
 | ------- |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/BasavarajBankolli/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/BasavarajBankolli/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Trie
 |  |
 | ------- |
