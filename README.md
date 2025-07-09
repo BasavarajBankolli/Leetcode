@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/BasavarajBankolli/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BasavarajBankolli/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/BasavarajBankolli/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/BasavarajBankolli/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/BasavarajBankolli/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/BasavarajBankolli/Leetcode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
