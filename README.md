@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/BasavarajBankolli/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/BasavarajBankolli/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/BasavarajBankolli/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/BasavarajBankolli/Leetcode/tree/master/0383-ransom-note) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BasavarajBankolli/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/BasavarajBankolli/Leetcode/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/BasavarajBankolli/Leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/BasavarajBankolli/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0797-rabbits-in-forest](https://github.com/BasavarajBankolli/Leetcode/tree/master/0797-rabbits-in-forest) |
