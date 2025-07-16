@@ -1,54 +1,18 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-        int res = 0, cur = 0;
-
-        // for odd
-        for(int a: nums) {
-            if(a % 2) cur++;
-        }         
-
-        res = cur;
-        cur = 0;
+        int odd = 0, even = 0, alter = 1, prev = nums[0];
         
-        // for even
-        for(int a: nums){
-            if (a % 2 == 0)cur++;
-        }
-
-        res = max(cur, res);
-        cur = 0;
-
-        // for even - odd
-        int flag = 0;
-        for(int a: nums) {
-            if (flag == 0 && a % 2 == 0) {
-                cur++;
-                flag = !flag;
-            }
-            else if(flag == 1 && a % 2 == 1){
-                cur++;
-                flag = !flag;
+        for(int i = 0; i < nums.size(); i++){
+            if (nums[i] % 2 == 1) odd++;
+            else even++;
+        
+            if (prev % 2 != nums[i] % 2){
+                alter++;
+                prev = nums[i];
             }
         }
 
-        res = max(res, cur);
-        cur = 0;
-
-        // for odd - even
-        flag = 1;
-        for(int a: nums) {
-            if (flag == 0 && a % 2 == 0) {
-                cur++;
-                flag = !flag;
-            }
-            else if(flag == 1 && a % 2 == 1){
-                cur++;
-                flag = !flag;
-            }
-        }
-
-        return max(res, cur);
-      
-    }
+        return max({odd,even, alter});
+    }   
 };
