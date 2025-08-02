@@ -1,16 +1,14 @@
 class Solution:
     def minCost(self, basket1: List[int], basket2: List[int]) -> int:
-        cnt = defaultdict(int)
+        cnt = Counter(basket1)
         
         mn = float('inf')
-        for b in basket1:
-            cnt[b] += 1
-            mn = min(mn, b)
 
         for b in basket2:
             cnt[b] -= 1
-            mn = min(mn, b)
-
+            
+        mn = min(basket1)
+        mn = min(mn, min(basket2))
         a = []
         for k, v in cnt.items():
             if v % 2 == 1:
