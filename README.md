@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-sum-of-variable-length-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/3750-closest-equal-element-queries) |
+| [3790-fruits-into-baskets-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/BasavarajBankolli/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3750-closest-equal-element-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/3750-closest-equal-element-queries) |
+| [3790-fruits-into-baskets-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/BasavarajBankolli/Leetcode/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3540-hash-divided-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -994,11 +997,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/BasavarajBankolli/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [2280-count-good-triplets-in-an-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting Sort
 |  |
 | ------- |
