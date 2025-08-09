@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/BasavarajBankolli/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/BasavarajBankolli/Leetcode/tree/master/0231-power-of-two) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/BasavarajBankolli/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0797-rabbits-in-forest](https://github.com/BasavarajBankolli/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/BasavarajBankolli/Leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/BasavarajBankolli/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/BasavarajBankolli/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/BasavarajBankolli/Leetcode/tree/master/0338-counting-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BasavarajBankolli/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
