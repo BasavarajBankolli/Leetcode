@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/BasavarajBankolli/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/BasavarajBankolli/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/BasavarajBankolli/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0816-design-hashset](https://github.com/BasavarajBankolli/Leetcode/tree/master/0816-design-hashset) |
 | [0878-shifting-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/0878-shifting-letters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/BasavarajBankolli/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/BasavarajBankolli/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0807-custom-sort-string) |
+| [0816-design-hashset](https://github.com/BasavarajBankolli/Leetcode/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/BasavarajBankolli/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0931-maximum-frequency-stack](https://github.com/BasavarajBankolli/Leetcode/tree/master/0931-maximum-frequency-stack) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0816-design-hashset](https://github.com/BasavarajBankolli/Leetcode/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BasavarajBankolli/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/BasavarajBankolli/Leetcode/tree/master/0816-design-hashset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
 |  |
@@ -880,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/BasavarajBankolli/Leetcode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0816-design-hashset](https://github.com/BasavarajBankolli/Leetcode/tree/master/0816-design-hashset) |
 | [0931-maximum-frequency-stack](https://github.com/BasavarajBankolli/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
