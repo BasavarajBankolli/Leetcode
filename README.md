@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/BasavarajBankolli/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0498-diagonal-traverse](https://github.com/BasavarajBankolli/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/BasavarajBankolli/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/BasavarajBankolli/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BasavarajBankolli/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/BasavarajBankolli/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/BasavarajBankolli/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/BasavarajBankolli/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/BasavarajBankolli/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
