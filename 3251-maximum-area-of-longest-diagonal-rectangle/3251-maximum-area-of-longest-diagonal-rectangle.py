@@ -1,10 +1,10 @@
 class Solution:
     def areaOfMaxDiagonal(self, dimensions: List[List[int]]) -> int:
         mxArea = 0
-        d = 0.0
+        d = 0
 
         for l, b in dimensions:
-            diag = math.sqrt(l*l + b*b)
+            diag = l*l + b*b
 
             if diag > d:
                 mxArea = l*b
