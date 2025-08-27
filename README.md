@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/BasavarajBankolli/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/BasavarajBankolli/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/BasavarajBankolli/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/BasavarajBankolli/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/BasavarajBankolli/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Linked List
 |  |
@@ -1014,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/BasavarajBankolli/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/BasavarajBankolli/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search Tree
 |  |
 | ------- |
