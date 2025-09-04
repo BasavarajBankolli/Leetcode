@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/BasavarajBankolli/Leetcode/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/BasavarajBankolli/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BasavarajBankolli/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/BasavarajBankolli/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/BasavarajBankolli/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/BasavarajBankolli/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/BasavarajBankolli/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BasavarajBankolli/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/BasavarajBankolli/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/BasavarajBankolli/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/BasavarajBankolli/Leetcode/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/BasavarajBankolli/Leetcode/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/BasavarajBankolli/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
