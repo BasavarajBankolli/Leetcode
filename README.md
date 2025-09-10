@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/BasavarajBankolli/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/BasavarajBankolli/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1775-design-an-ordered-stream](https://github.com/BasavarajBankolli/Leetcode/tree/master/1775-design-an-ordered-stream) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/BasavarajBankolli/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/BasavarajBankolli/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/BasavarajBankolli/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/BasavarajBankolli/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1775-design-an-ordered-stream](https://github.com/BasavarajBankolli/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1777-determine-if-two-strings-are-close](https://github.com/BasavarajBankolli/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/BasavarajBankolli/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/BasavarajBankolli/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/BasavarajBankolli/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/BasavarajBankolli/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/BasavarajBankolli/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/BasavarajBankolli/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
