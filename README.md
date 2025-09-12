@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/BasavarajBankolli/Leetcode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3374-count-alternating-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/3374-count-alternating-subarrays) |
+| [3462-vowels-game-in-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/BasavarajBankolli/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/BasavarajBankolli/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/BasavarajBankolli/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3540-hash-divided-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3540-hash-divided-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/BasavarajBankolli/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3462-vowels-game-in-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1113,4 +1116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/BasavarajBankolli/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
