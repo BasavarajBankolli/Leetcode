@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/BasavarajBankolli/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/BasavarajBankolli/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/BasavarajBankolli/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/BasavarajBankolli/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/BasavarajBankolli/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
