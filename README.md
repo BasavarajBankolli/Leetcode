@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/BasavarajBankolli/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/BasavarajBankolli/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/BasavarajBankolli/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/BasavarajBankolli/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/BasavarajBankolli/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/BasavarajBankolli/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1044-find-common-characters) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/BasavarajBankolli/Leetcode/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/BasavarajBankolli/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1044-find-common-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1044-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
