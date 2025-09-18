@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/BasavarajBankolli/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/BasavarajBankolli/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/BasavarajBankolli/Leetcode/tree/master/0868-push-dominoes) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/BasavarajBankolli/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/BasavarajBankolli/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/BasavarajBankolli/Leetcode/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0807-custom-sort-string) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/BasavarajBankolli/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/BasavarajBankolli/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/BasavarajBankolli/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/BasavarajBankolli/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/BasavarajBankolli/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/BasavarajBankolli/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/BasavarajBankolli/Leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0931-maximum-frequency-stack](https://github.com/BasavarajBankolli/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1072-next-greater-node-in-linked-list](https://github.com/BasavarajBankolli/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
