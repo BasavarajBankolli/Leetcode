@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/BasavarajBankolli/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/BasavarajBankolli/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/BasavarajBankolli/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/BasavarajBankolli/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/BasavarajBankolli/Leetcode/tree/master/0056-merge-intervals) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/BasavarajBankolli/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/BasavarajBankolli/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/BasavarajBankolli/Leetcode/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0113-path-sum-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
