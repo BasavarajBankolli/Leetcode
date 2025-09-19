@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/BasavarajBankolli/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/BasavarajBankolli/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/BasavarajBankolli/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/BasavarajBankolli/Leetcode/tree/master/3678-design-task-manager) |
 | [3750-closest-equal-element-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/BasavarajBankolli/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/BasavarajBankolli/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/BasavarajBankolli/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3636-check-balanced-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/BasavarajBankolli/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/BasavarajBankolli/Leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3815-sum-of-largest-prime-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/3815-sum-of-largest-prime-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/BasavarajBankolli/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -844,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/BasavarajBankolli/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/BasavarajBankolli/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/BasavarajBankolli/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3797-design-spreadsheet](https://github.com/BasavarajBankolli/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Linked List
 |  |
@@ -974,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/BasavarajBankolli/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/BasavarajBankolli/Leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/BasavarajBankolli/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
