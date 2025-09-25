@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BasavarajBankolli/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BasavarajBankolli/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/BasavarajBankolli/Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/BasavarajBankolli/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/BasavarajBankolli/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/BasavarajBankolli/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/BasavarajBankolli/Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/BasavarajBankolli/Leetcode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0213-house-robber-ii) |
