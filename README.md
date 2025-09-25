@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/BasavarajBankolli/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/BasavarajBankolli/Leetcode/tree/master/0952-word-subsets) |
+| [0967-minimum-falling-path-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/BasavarajBankolli/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/BasavarajBankolli/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/BasavarajBankolli/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/BasavarajBankolli/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0967-minimum-falling-path-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/BasavarajBankolli/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/BasavarajBankolli/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/BasavarajBankolli/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0967-minimum-falling-path-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/BasavarajBankolli/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/BasavarajBankolli/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
