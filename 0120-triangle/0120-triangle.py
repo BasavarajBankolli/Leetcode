@@ -2,25 +2,24 @@ class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
         row = len(triangle)
 
-        dp = [[0] * (i+1) for i in range(row)]
+        dp = [0]*row
         for r in range(row):
+            cur = [0]*row
             for c in range(r+1):
-                
                 if r == 0 and c == 0:
-                    dp[r][c] = triangle[r][c]
+                    cur[0] = triangle[0][0]
                     continue
 
                 if c == 0:
-                    dp[r][c] = dp[r-1][c] + triangle[r][c]
+                    cur[c] = dp[c] + triangle[r][c]
 
                 elif c == r: 
-                    dp[r][c] = dp[r-1][c-1] + triangle[r][c]
+                    cur[c] = dp[c-1] + triangle[r][c]
 
                 else:
-                    dp[r][c] = min(dp[r-1][c-1] + triangle[r][c], dp[r-1][c] + triangle[r][c])
+                    cur[c] = min(dp[c-1] + triangle[r][c], dp[c] + triangle[r][c])
+            
+            dp = cur
+            print(dp)
 
-        mn = float('inf')      
-        for v in dp[-1]:
-            mn = min(mn, v)
-
-        return mn
+        return min(dp)
