@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/BasavarajBankolli/Leetcode/tree/master/1500-count-largest-group) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/BasavarajBankolli/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1642-water-bottles](https://github.com/BasavarajBankolli/Leetcode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/BasavarajBankolli/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/BasavarajBankolli/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/BasavarajBankolli/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/BasavarajBankolli/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/BasavarajBankolli/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/BasavarajBankolli/Leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/BasavarajBankolli/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BasavarajBankolli/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
