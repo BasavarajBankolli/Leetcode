@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/BasavarajBankolli/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/BasavarajBankolli/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1036-rotting-oranges](https://github.com/BasavarajBankolli/Leetcode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/BasavarajBankolli/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/BasavarajBankolli/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/BasavarajBankolli/Leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/BasavarajBankolli/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/BasavarajBankolli/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/BasavarajBankolli/Leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/BasavarajBankolli/Leetcode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/BasavarajBankolli/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/BasavarajBankolli/Leetcode/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/BasavarajBankolli/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/BasavarajBankolli/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
