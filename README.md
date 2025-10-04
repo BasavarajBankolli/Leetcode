@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/BasavarajBankolli/Leetcode/tree/master/1775-design-an-ordered-stream) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/BasavarajBankolli/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/BasavarajBankolli/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1876-map-of-highest-peak](https://github.com/BasavarajBankolli/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/BasavarajBankolli/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/BasavarajBankolli/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/BasavarajBankolli/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1876-map-of-highest-peak](https://github.com/BasavarajBankolli/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/BasavarajBankolli/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/BasavarajBankolli/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/BasavarajBankolli/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1876-map-of-highest-peak](https://github.com/BasavarajBankolli/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BasavarajBankolli/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/BasavarajBankolli/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
