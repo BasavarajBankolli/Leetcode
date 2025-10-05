@@ -2,7 +2,7 @@ class Solution:
     def numEnclaves(self, grid: List[List[int]]) -> int:
         rows, cols = len(grid), len(grid[0])
 
-        vis = set()
+        cnt = 0
         dirs = [(1,0), (-1,0), (0,1), (0,-1)]
         
         def dfs(r,c):
@@ -10,12 +10,13 @@ class Solution:
                 return 
 
             if grid[r][c] == 1:
-                vis.add((r,c))
+                grid[r][c] = 0
+               
 
             for dr, dc in dirs:
                 nr, nc = r + dr, c + dc
 
-                if 0 <= nr < rows and 0 <= nc < cols and (nr, nc) not in vis and grid[nr][nc] == 1:
+                if 0 <= nr < rows and 0 <= nc < cols and grid[nr][nc] == 1:
                     dfs(nr, nc)
         
         for r in range(rows):
@@ -30,13 +31,9 @@ class Solution:
             if grid[rows-1][c] == 1:
                 dfs(rows-1, c)
 
-        cnt = 0
-        for r in range(0, rows-1):
-            for c in range(0, cols-1):
-                if grid[r][c] == 1 and (r,c) not in vis:
-                    cnt += 1
+        som = sum(sum(r) for r in grid)
 
         # print(vis)
-        return cnt
+        return som 
                 
         
