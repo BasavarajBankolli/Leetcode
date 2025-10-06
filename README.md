@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BasavarajBankolli/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/BasavarajBankolli/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/BasavarajBankolli/Leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/BasavarajBankolli/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/BasavarajBankolli/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0816-design-hashset](https://github.com/BasavarajBankolli/Leetcode/tree/master/0816-design-hashset) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/BasavarajBankolli/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/BasavarajBankolli/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0794-swim-in-rising-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/BasavarajBankolli/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1046-max-consecutive-ones-iii](https://github.com/BasavarajBankolli/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BasavarajBankolli/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/BasavarajBankolli/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/BasavarajBankolli/Leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/BasavarajBankolli/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/BasavarajBankolli/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/BasavarajBankolli/Leetcode/tree/master/1036-rotting-oranges) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0692-top-k-frequent-words](https://github.com/BasavarajBankolli/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0794-swim-in-rising-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/BasavarajBankolli/Leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1539-diagonal-traverse-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/BasavarajBankolli/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -889,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/BasavarajBankolli/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/BasavarajBankolli/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/BasavarajBankolli/Leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/BasavarajBankolli/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/BasavarajBankolli/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/BasavarajBankolli/Leetcode/tree/master/1036-rotting-oranges) |
@@ -993,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/BasavarajBankolli/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/BasavarajBankolli/Leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/BasavarajBankolli/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1073-number-of-enclaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -1012,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/BasavarajBankolli/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/BasavarajBankolli/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/BasavarajBankolli/Leetcode/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
