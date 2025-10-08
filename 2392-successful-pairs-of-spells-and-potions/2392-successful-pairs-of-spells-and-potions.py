@@ -19,14 +19,15 @@ class Solution:
             
             return l
 
-        # d = {}
+
+        d = {}
         res = [0]*n
         for i in range(n):
-            # if spells[i] in d:
-            #     res[i] = d[spells[i]]
-            #     continue
+            if spells[i] in d:
+                res[i] = d[spells[i]]
+                continue
 
             res[i] = m - check(spells[i])
-            # d[spells[i]] = res[i]
+            d[spells[i]] = res[i]
             
         return res
