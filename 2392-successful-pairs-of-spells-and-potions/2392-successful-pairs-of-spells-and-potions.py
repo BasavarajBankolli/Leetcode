@@ -5,29 +5,27 @@ class Solution:
         m = len(potions)
         n = len(spells)
 
-        def check(x):
-            l, r = 0, m - 1
+        # def check(x):
+        #     l, r = 0, m - 1
 
-            while l <= r:
-                md = l + (r-l)//2
+        #     while l <= r:
+        #         md = l + (r-l)//2
 
-                if potions[md]*x >= success:
-                    r = md - 1 
+        #         if potions[md]*x >= success:
+        #             r = md - 1 
 
-                else:
-                    l = md + 1
+        #         else:
+        #             l = md + 1
             
-            return l
+        #     return l
 
 
-        d = {}
         res = [0]*n
         for i in range(n):
-            if spells[i] in d:
-                res[i] = d[spells[i]]
-                continue
+            spell = spells[i]
+            x = (success + spell - 1) // spell
 
-            res[i] = m - check(spells[i])
-            d[spells[i]] = res[i]
+            idx = bisect_left(potions, x)
+            res[i] = m-idx
             
         return res
