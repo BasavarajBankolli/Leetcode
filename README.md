@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/BasavarajBankolli/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/BasavarajBankolli/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BasavarajBankolli/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/BasavarajBankolli/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/BasavarajBankolli/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1396-count-servers-that-communicate](https://github.com/BasavarajBankolli/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/BasavarajBankolli/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/BasavarajBankolli/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/BasavarajBankolli/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/BasavarajBankolli/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/BasavarajBankolli/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/BasavarajBankolli/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/BasavarajBankolli/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/BasavarajBankolli/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/BasavarajBankolli/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/BasavarajBankolli/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/BasavarajBankolli/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1539-diagonal-traverse-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/1539-diagonal-traverse-ii) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/BasavarajBankolli/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/BasavarajBankolli/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/BasavarajBankolli/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/BasavarajBankolli/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/BasavarajBankolli/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/BasavarajBankolli/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
