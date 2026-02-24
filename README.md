@@ -1024,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/BasavarajBankolli/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/BasavarajBankolli/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/BasavarajBankolli/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1073-number-of-enclaves](https://github.com/BasavarajBankolli/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BasavarajBankolli/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BasavarajBankolli/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BasavarajBankolli/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1161,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BasavarajBankolli/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/BasavarajBankolli/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/BasavarajBankolli/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/BasavarajBankolli/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/BasavarajBankolli/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
